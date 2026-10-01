@@ -1,0 +1,6 @@
+{
+  "name": "Roots Miners Pro",
+  "description": "Roots Miners Pro is a next-generation Bitcoin cloud mining platform featuring high-yield H & W series ASIC miners, instant mobile money deposits, daily withdrawals, and real-time system monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
